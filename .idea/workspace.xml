@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b877867-c049-4a57-9266-04376990abbd" name="Default Changelist" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3b877867-c049-4a57-9266-04376990abbd" name="Default Changelist" comment="move files to root folder">
+      <change afterPath="$PROJECT_DIR$/conditionals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditionals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604950080617</updated>
-      <workItem from="1604950081714" duration="11698000" />
+      <workItem from="1604950081714" duration="12031000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1604975363715</created>
@@ -41,7 +43,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604975363715</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="move files to root folder">
+      <created>1604975897485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604975897485</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -49,7 +58,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="move files to root folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="move files to root folder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="265" key="FileChooserDialogImpl" timestamp="1604975758043">
